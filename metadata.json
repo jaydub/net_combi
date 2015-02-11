@@ -1,0 +1,11 @@
+{
+    "name": "jaydub-net_combi",
+    "version": "0.1.0",
+    "author": "John Morton",
+    "license": "Apache-2.0",
+    "summary": "Creates ARP, host, dhcp and tinydns entries from one resource",
+    "source": "https://github.com/jaydub/net_combi",
+    "project_url": "https://github.com/jaydub/net_combi",
+    "issues_url": "https://github.com/jaydub/net_combi/issues",
+    "dependencies": []
+}
